@@ -1,18 +1,6 @@
-## Getting Started
+Practical project, developed in Java, for the Object Oriented Programming course of a Bachelor's Degree in Computer Science.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+The SpotifUM project involves developing an application for managing music and playlists, where users can listen to, search for, and organise music by playlists. The application differentiates between occasional users, who listen to music randomly, and premium users, who have access to advanced features such as creating, saving, and controlling playlists.
+The system also includes different subscription plans, allowing for the easy addition of new plans in the future. For premium users, the application analyses listening habits to generate personalised playlists, called Favourites Lists, automatically.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+The main objective is to manage musical content and user profiles, simplified playback of music and collecting usage data to improve the personalised user experience.
